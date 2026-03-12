@@ -253,7 +253,7 @@ ${modHtml}
 
   // Skillery-inspired palette
   const BG="#F0F2F5";const SURFACE="#FFFFFF";const BORDER="#E5E7EB";const TEXT="#1E1E2E";const MUTED="#6B7280";const ACCENT="#6C5CE7";
-  const PURPLE="#6C5CE7";const BLUE="#0984E3";const DARK="#1E1E2E";
+  //const PURPLE="#6C5CE7";const BLUE="#0984E3";const DARK="#1E1E2E";
   const typeColors={initial_dgca:"#27ae60",initial_easa:"#2980b9",recurrent:"#5a7a2d",human_factors:"#c0392b",dangerous_goods:"#d68910"};
 
   return(
